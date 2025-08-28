@@ -1,10 +1,12 @@
 
 {
   "enabled": true,
-  "maintenance": true,
+  "maintenance": false,
   "maintenance_message": "La aplicación está en mantenimiento.\n\nIntenta de nuevo más tarde.",
   "min_version": "1.0.0",
   "update_message": "Tu versión está desactualizada.\n\nDescarga la nueva versión.",
   "exclusive_users": [],
-  "last_updated": "2024-01-25T12:00:00Z"
+  "last_updated": "2024-12-27T18:30:00Z",
+  "check_interval": 10,
+  "force_refresh": true
 }
