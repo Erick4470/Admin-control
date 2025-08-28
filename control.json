@@ -1,6 +1,6 @@
 
 {
-  "enabled": true,
+  "enabled": false,
   "maintenance": false,
   "maintenance_message": "La aplicación está en mantenimiento.\n\nIntenta de nuevo más tarde.",
   "min_version": "1.0.0",
