@@ -1,8 +1,8 @@
 
 {
   "enabled": true,
-  "maintenance": true,
-  "maintenance_message": "La aplicación está en mantenimiento.\n\nIntenta de nuevo más tarde.",
+  "maintenance": false,
+  "maintenance_message": "La aplicación está en mantenimiento por erickglom.\n\nRegresamos en 30 a 1 hora.",
   "min_version": "2.0.0",
   "update_message": "Tu versión está desactualizada.\n\nDescarga la nueva versión.",
   "exclusive_users": [],
